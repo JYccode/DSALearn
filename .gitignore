@@ -1,0 +1,10 @@
+#ignore all .exe file
+*.exe
+
+#ignore current file readme.md
+/readme.md
+
+#ignore all files in directory .vscode
+.vscode/
+
+###
